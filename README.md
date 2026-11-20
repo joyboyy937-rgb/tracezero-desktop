@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Quick Start Guide (2 Minutes)
-1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com) and extract all files into a folder.
+1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**]([https://github.com](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
 2. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
 3. **Launch `TraceZero.exe`:**
    > **⚠️ First-Time Startup Note:** On a fresh Windows installation, **`TraceZero.exe` may take 1–2 initialization launches to warm up the local WebView2 runtime and model cache (the first two launches may close or appear unresponsive—simply launch it a third time and it will open and run smoothly from then on).**

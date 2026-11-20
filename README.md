@@ -4,8 +4,8 @@
   <p>Debug proprietary code at full speed—even in Airplane Mode. Zero telemetry. 0 KB sent to the cloud.</p>
 
   <p>
-    <a href="https://github.com"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
-    <a href="YOUR_NEW_POLAR_CHECKOUT_URL"><strong>⚡ Buy Pro License ($9/mo)</strong></a>
+   <a href="https://github.com"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
+    <a href="(https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)"><strong>⚡ Buy Pro License ($9/mo)</strong></a>
   </p>
 </div>
 

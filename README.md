@@ -1,5 +1,8 @@
 <div align="center">
   <h1>🛡️ TraceZero v1.0</h1>
+<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/1d343d77-3d7c-42cb-8d04-754ef1508168" />
+<img width="1366" height="768" alt="tracezero main page pic" src="https://github.com/user-attachments/assets/217710a7-9048-4476-8bb5-0b4f9bb29474" />
+<img width="819" height="602" alt="live diff review" src="https://github.com/user-attachments/assets/4b79a4ab-2b0f-4c6a-9666-1e5b196d6038" />
   <p><strong>100% Air-Gapped Offline AI Code Debugger for Windows</strong></p>
   <p>Debug proprietary code at full speed—even in Airplane Mode. Zero telemetry. 0 KB sent to the cloud.</p>
 
@@ -21,7 +24,7 @@
 ---
 
 ### 🚀 Quick Start Guide (2 Minutes)
-1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**]([https://github.com](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
+1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com)(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
 2. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
 3. **Launch `TraceZero.exe`:**
    > **⚠️ First-Time Startup Note:** On a fresh Windows installation, **`TraceZero.exe` may take 1–2 initialization launches to warm up the local WebView2 runtime and model cache (the first two launches may close or appear unresponsive—simply launch it a third time and it will open and run smoothly from then on).**

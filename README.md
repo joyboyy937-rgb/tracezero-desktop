@@ -30,6 +30,8 @@
    > **⚠️ First-Time Startup Note:** On a fresh Windows installation, **`TraceZero.exe` may take 1–2 initialization launches to warm up the local WebView2 runtime and model cache (the first two launches may close or appear unresponsive—simply launch it a third time and it will open and run smoothly from then on).**
 4. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
 
+🔥 Launch Promo: Use code PEER50 at checkout for 50% off ($4.50/mo) — strictly limited to the first 30 subscribers!
+
 ---
 
 ### 💳 Licensing & Support

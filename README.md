@@ -10,6 +10,7 @@
    <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
     <a href="(https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)"><strong>⚡ Buy Pro License ($9/mo)</strong></a>
   </p>
+  <p><strong>🔥 Launch Promo:</strong> Use code <code>PEER50</code> at checkout for <strong>50% off ($4.50/mo)</strong> — limited to the <strong>first 30 subscribers</strong>!</p>
 </div>
 
 ---
@@ -26,14 +27,11 @@
 ### 🚀 Quick Start Guide (2 Minutes)
 1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com)(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
 2. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
-3. **Launch `TraceZero.exe`:**
-   > **⚠️ First-Time Startup Note:** On a fresh Windows installation, **`TraceZero.exe` may take 1–2 initialization launches to warm up the local WebView2 runtime and model cache (the first two launches may close or appear unresponsive—simply launch it a third time and it will open and run smoothly from then on).**
+3. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
 4. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
 
-🔥 Launch Promo: Use code PEER50 at checkout for 50% off ($4.50/mo) — strictly limited to the first 30 subscribers!
 
 ---
-
 ### 💳 Licensing & Support
 - **7-Day Free Trial:** Included automatically on first launch (25 AI fixes/day).
 - **TraceZero Pro ($9/month):** [**Subscribe via Polar.sh**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD) to receive your instant `TZ-` license key for unlimited offline fixes across up to 2 Windows PCs.

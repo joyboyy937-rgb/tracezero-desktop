@@ -32,7 +32,11 @@
 
 
 ---
-### 💳 Licensing & Support
-- **7-Day Free Trial:** Included automatically on first launch (25 AI fixes/day).
-- **TraceZero Pro ($9/month):** [**Subscribe via Polar.sh**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD) to receive your instant `TZ-` license key for unlimited offline fixes across up to 2 Windows PCs.
+### 💳 Licensing & Team Plans
+
+| Plan | Price | Seats / Devices | Best For | Checkout |
+| :--- | :--- | :--- | :--- | :--- |
+| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC (25 fixes/day) | Testing offline AST + GGUF debugging | [**Download v1.1**](https://github.com) |
+| **TraceZero Pro (Solo)** | **$9 / month** *(`$4.50/mo` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes) | Independent developers & consultants | [**⚡ Buy Solo Pro ($9/mo)**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)) |
+| **TraceZero Agency Pack** | **$79 / month** | **10 Windows Seats** (Single Monthly PDF Invoice + NDA Compliance) | Freelance agencies, fintech & defense/NDA contractors | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY)) |
 - **Customer Support:** `joyboyy@tracezero.abrdns.com`

@@ -30,6 +30,7 @@
 3. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
 4. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
 5. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
+6. > **💡 Pro Tip for Multi-Bug or Complex Files:** TraceZero's `1.5B` air-gapped engine is engineered for surgical precision on focused scopes (`±40` lines). If a file has several unrelated bugs, tackle or prompt **one bug/function at a time**—TraceZero's 3-attempt Reflexion verifier will lock onto the exact root cause and deliver clean, verified patches every single time.
 
 
 ---

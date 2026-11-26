@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ TraceZero v1.0</h1>
+  <h1>🛡️ TraceZero v1.1.0</h1>
 <img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/1d343d77-3d7c-42cb-8d04-754ef1508168" />
 <img width="1366" height="768" alt="tracezero main page pic" src="https://github.com/user-attachments/assets/217710a7-9048-4476-8bb5-0b4f9bb29474" />
 <img width="819" height="602" alt="live diff review" src="https://github.com/user-attachments/assets/4b79a4ab-2b0f-4c6a-9666-1e5b196d6038" />

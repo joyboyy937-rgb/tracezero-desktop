@@ -26,17 +26,18 @@
 
 ### 🚀 Quick Start Guide (2 Minutes)
 1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com)(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
-2. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
-3. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
-4. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
+2. • <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
+3. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
+4. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
+5. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
 
 
 ---
-### 💳 Licensing & Team Plans
 
 | Plan | Price | Seats / Devices | Best For | Checkout |
 | :--- | :--- | :--- | :--- | :--- |
-| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC (25 fixes/day) | Testing offline AST + GGUF debugging | [**Download v1.1**](https://github.com) |
-| **TraceZero Pro (Solo)** | **$9 / month** *(`$4.50/mo` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes) | Independent developers & consultants | [**⚡ Buy Solo Pro ($9/mo)**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)) |
-| **TraceZero Agency Pack** | **$79 / month** | **10 Windows Seats** (Single Monthly PDF Invoice + NDA Compliance) | Freelance agencies, fintech & defense/NDA contractors | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY)) |
+| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC | Testing offline Reflexion + AST debugging | [**Download v1.1**](https://github.com) |
+| **TraceZero Pro (Solo)** | **$9 / month** *(`$4.50/mo` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** | Independent developers & consultants | [**⚡ Buy Solo Pro ($9/mo)**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD) |
+| **TraceZero Agency Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
+| **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |
 - **Customer Support:** `joyboyy@tracezero.abrdns.com`

@@ -7,7 +7,7 @@
   <p>Debug proprietary code at full speed—even in Airplane Mode. Zero telemetry. 0 KB sent to the cloud.</p>
 
   <p>
-   <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
+   <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0)"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
     <a href="(https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)"><strong>⚡ Buy Pro License ($9/mo)</strong></a>
   </p>
   <p><strong>🔥 Launch Promo:</strong> Use code <code>PEER50</code> at checkout for <strong>50% off ($4.50/mo)</strong> — limited to the <strong>first 30 subscribers</strong>!</p>
@@ -25,7 +25,7 @@
 ---
 
 ### 🚀 Quick Start Guide (2 Minutes)
-1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com)(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.0.0)) and extract all files into a folder.
+1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) and extract all files into a folder.
 2. <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
 3. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
 4. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
@@ -36,7 +36,7 @@
 
 | Plan | Price | Seats / Devices | Best For | Checkout |
 | :--- | :--- | :--- | :--- | :--- |
-| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC | Testing offline Reflexion + AST debugging | [**Download v1.1**](https://github.com) |
+| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC | Testing offline Reflexion + AST debugging | [**Download v1.1**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) |
 | **TraceZero Pro (Solo)** | **$9 / month** *(`$4.50/mo` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** | Independent developers & consultants | [**⚡ Buy Solo Pro ($9/mo)**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD) |
 | **TraceZero Agency Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
 | **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |

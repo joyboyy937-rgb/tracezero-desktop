@@ -16,7 +16,8 @@
   <img src="https://githubusercontent.com" alt="TraceZero v1.1.0 Offline AI Debugger IDE" width="90%" />
 </div>
 
-> **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
+> **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/0ffc75ac-1e58-427a-8539-39811874f866" />
+ *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
 
 ---
 
@@ -34,7 +35,7 @@
 
 | Live Red/Green Unified Diff & 1-Click Patch | Verified Offline in Windows Airplane Mode |
 | :---: | :---: |
-| <img src="https://githubusercontent.com" alt="TraceZero Live Unified Diff View" width="100%" /> | <img src="https://githubusercontent.com" alt="TraceZero Airplane Mode Zero Egress Proof" width="100%" /> |
+| <img width="100%" alt="live diff review" src="https://github.com/user-attachments/assets/4946ffe4-d3f3-4d55-a766-48332a7e83bb" /> | <img width="100%" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/6df80240-6b18-444f-8c0d-bbe41db35fea" /> |
 
 ---
 

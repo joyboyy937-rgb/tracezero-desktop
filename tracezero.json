@@ -1,0 +1,6 @@
+{
+  "host": "http://127.0.0.1:11434",
+  "model": "qwen2.5-coder:1.5b",
+  "max_reflexion_attempts": 3,
+  "allow_external_network": false
+}

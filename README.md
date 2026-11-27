@@ -13,7 +13,7 @@
   <br/>
 
   <!-- Main Large Hero Screenshot -->
-  <img src="https://githubusercontent.com" alt="TraceZero v1.1.0 Offline AI Debugger IDE" width="90%" />
+  <img width="1366" height="768" alt="tracezero main page pic" src="https://github.com/user-attachments/assets/80ce8618-de02-4de3-acb8-f5e3ba155edc" />
 </div>
 
 > **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/0ffc75ac-1e58-427a-8539-39811874f866" />

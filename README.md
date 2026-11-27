@@ -4,7 +4,7 @@
 
   <p>
     <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop)"><strong>⬇️ Download TraceZero v1.1.0 (Free Forever Lite + 7-Day Pro Trial)</strong></a>
-    • <a href="https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1"><strong>🛡️ VirusTotal Scan (1/66 (False positive from DeepInstinct ML; 65/66 clean))</strong></a>
+    • <a href="https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1"><strong>🛡️ VirusTotal Scan (1/66 (False positive from DeepInstinct ML; 65/66 clean)</strong></a>
     • <a href="(https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS)"><strong>⚡ Buy Solo Pro Lifetime ($29 one-time)</strong></a>
   </p>
 
@@ -17,7 +17,7 @@
 </div>
 
 > **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an
- *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **1/66 (False positive from DeepInstinct ML; 65/66 clean)** on [VirusTotal](https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1)).
+ *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **1/66 (False positive from DeepInstinct ML; 65/66 clean)** on [VirusTotal](https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1).
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 🚀 Quick Start Guide (2 Minutes)
 
-1. **Download & Install:** Grab **`TraceZero_Setup_v1.1.exe`** from [**GitHub Releases (v1.1.0)**](https://github.com/joyboyy937-rgb/tracezero-desktop) and run the 1-click installer.
+1. **Download & Install:** Grab **`TraceZero_v1.1_Win64.zip`** from [**GitHub Releases (v1.1.0)**](https://github.com/joyboyy937-rgb/tracezero-desktop) and run the 1-click installer.
 2. **Automatic Local Engine Setup:** The installer initializes the local `qwen2.5-coder:1.5b` model on `127.0.0.1:11434` automatically (requires [Ollama](https://ollama.com) installed; one-time model pull during setup, `0 KB` network egress during runtime).
 3. **Debug Offline:** Launch **TraceZero** from your Desktop shortcut, open a folder or paste code into the editor, and click **Find Bugs**—TraceZero creates `.tracezero/backups/` before patching and logs `EGRESS=0_BYTES` in `.tracezero/audit.log` (see [`AUDIT_SPEC.md`](./AUDIT_SPEC.md)).
 

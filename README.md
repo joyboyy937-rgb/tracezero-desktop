@@ -26,19 +26,22 @@
 
 ### 🚀 Quick Start Guide (2 Minutes)
 1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) and extract all files into a folder.
-2. <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
-3. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
-4. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
-5. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
-6. > **💡 Pro Tip for Multi-Bug or Complex Files:** TraceZero's `1.5B` air-gapped engine is engineered for surgical precision on focused scopes (`±40` lines). If a file has several unrelated bugs, tackle or prompt **one bug/function at a time**—TraceZero's 3-attempt Reflexion verifier will lock onto the exact root cause and deliver clean, verified patches every single time.
+2. > **Note on Windows SmartScreen:** While our official EV/Azure Code Signing certificate is in verification, Windows SmartScreen may show an *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
+3. <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
+4. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
+5. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
+6. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
+7. > **💡 Pro Tip for Multi-Bug or Complex Files:** TraceZero's `1.5B` air-gapped engine is engineered for surgical precision on focused scopes (`±40` lines). If a file has several unrelated bugs, tackle or prompt **one bug/function at a time**—TraceZero's 3-attempt Reflexion verifier will lock onto the exact root cause and deliver clean, verified patches every single time.
 
 
 ---
 
+### 💳 Licensing & Team Plans
+
 | Plan | Price | Seats / Devices | Best For | Checkout |
 | :--- | :--- | :--- | :--- | :--- |
-| **7-Day Free Trial** | **$0** (No card required) | 1 Windows PC | Testing offline Reflexion + AST debugging | [**Download v1.1**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) |
-| **TraceZero Pro (Solo)** | **$9 / month** *(`$4.50/mo` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** | Independent developers & consultants | [**⚡ Buy Solo Pro ($9/mo)**](https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD) |
-| **TraceZero Agency Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
-| **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |
-- **Customer Support:** `joyboyy@tracezero.abrdns.com`
+| **Free Forever Lite** | **$0 Forever** (7-day full Pro trial, then **3 Reflexion fixes/day** + unlimited AST scans) | 1 Windows PC | Daily lightweight debugging & testing | [**Download v1.1.0**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) |
+| **Solo Pro (Lifetime v1.x)** | **$29 one-time** *(`$14.50` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes + all `v1.x` updates) | Independent developers & consultants | [**⚡ Buy Solo Lifetime ($29)**](https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS) |
+| **Agency Team Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice + `.tracezero/audit.log`) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
+| **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Security Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |
+- **Customer Support:** `joyboyy437@gmail.com`

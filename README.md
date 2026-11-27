@@ -4,7 +4,7 @@
 
   <p>
     <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop)"><strong>⬇️ Download TraceZero v1.1.0 (Free Forever Lite + 7-Day Pro Trial)</strong></a>
-    • <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
+    • <a href="https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1"><strong>🛡️ VirusTotal Scan (1/66 (False positive from DeepInstinct ML; 65/66 clean))</strong></a>
     • <a href="(https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS)"><strong>⚡ Buy Solo Pro Lifetime ($29 one-time)</strong></a>
   </p>
 
@@ -17,7 +17,7 @@
 </div>
 
 > **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/0ffc75ac-1e58-427a-8539-39811874f866" />
- *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
+ *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **1/66 (False positive from DeepInstinct ML; 65/66 clean)** on [VirusTotal](https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1)).
 
 ---
 

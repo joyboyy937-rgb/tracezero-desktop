@@ -1,38 +1,50 @@
 <div align="center">
-  <h1>🛡️ TraceZero v1.1.0</h1>
-<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/1d343d77-3d7c-42cb-8d04-754ef1508168" />
-<img width="1366" height="768" alt="tracezero main page pic" src="https://github.com/user-attachments/assets/217710a7-9048-4476-8bb5-0b4f9bb29474" />
-<img width="819" height="602" alt="live diff review" src="https://github.com/user-attachments/assets/4b79a4ab-2b0f-4c6a-9666-1e5b196d6038" />
-  <p><strong>100% Air-Gapped Offline AI Code Debugger for Windows</strong></p>
-  <p>Debug proprietary code at full speed—even in Airplane Mode. Zero telemetry. 0 KB sent to the cloud.</p>
+  <h1>🛡️ TraceZero v1.1.0 — 100% Air-Gapped AI Code Debugger for Windows</h1>
+  <p><strong>Surgical offline bug fixing powered by a local 1.5B–14B coding engine, <code>&lt;2ms</code> Python AST static pre-scanning, and 3-attempt execution-verified Reflexion — with <code>0 KB</code> external network egress.</strong></p>
 
   <p>
-   <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0)"><strong>⬇️ Download Windows x64 (7-Day Free Trial)</strong></a> •
-    <a href="(https://buy.polar.sh/polar_cl_vAJvvi66RxEwcOTGB4VvVQMBB7aGD5sqLgyec2G9PDD)"><strong>⚡ Buy Pro License ($9/mo)</strong></a>
+    <a href="(https://github.com/joyboyy937-rgb/tracezero-desktop)"><strong>⬇️ Download TraceZero v1.1.0 (Free Forever Lite + 7-Day Pro Trial)</strong></a>
+    • <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
+    • <a href="(https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS)"><strong>⚡ Buy Solo Pro Lifetime ($29 one-time)</strong></a>
   </p>
-  <p><strong>🔥 Launch Promo:</strong> Use code <code>PEER50</code> at checkout for <strong>50% off ($4.50/mo)</strong> — limited to the <strong>first 30 subscribers</strong>!</p>
+
+  <p><em>🎉 Launch Promo: Use code <code>PEER50</code> at checkout for <strong>50% off ($14.50 one-time)</strong> — limited to the first 30 Solo Pro subscribers!</em></p>
+
+  <br/>
+
+  <!-- Main Large Hero Screenshot -->
+  <img src="https://githubusercontent.com" alt="TraceZero v1.1.0 Offline AI Debugger IDE" width="90%" />
 </div>
+
+> **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
 
 ---
 
-### ⚡ Why Developers Choose TraceZero
-- **100% Air-Gapped Privacy:** Runs on a fine-tuned 1.5B local coding engine (`127.0.0.1:11434`). Safe for strict client NDAs, fintech, and enterprise repositories.
-- **AST Static Pre-Scanner + Two-Pass Reasoning:** Python's `ast` engine audits your code in `<2ms` for crashes, mutable defaults, thread race conditions, and clock drift before synthesizing unified fixes.
-- **Scratchpad Slots + Full Folder Explorer:** Paste broken code directly into instant scratchpad slots (`+ Paste Code`) or open entire local folders (`+ Folder`).
-- **Live Red/Green Diffs & 1-Click Patching:** Inspect unified line-by-line diffs, apply patches directly to disk with `Ctrl+Z` revert, or copy clean code in 1 click.
-- **Predictable Flat Pricing:** Free 7-day trial (no credit card required), then **$9/month** flat for unlimited offline fixes.
+### 🔒 Why Developers & NDA Teams Choose TraceZero
+
+* **100% Air-Gapped Runtime (`127.0.0.1:11434`):** Every inference call binds strictly to your local Ollama daemon (`0 KB` sent to external servers; works in Windows Airplane Mode and writes an auditable `.tracezero/audit.log` on every run).
+* **Offline-Tolerant Cryptographic Licensing:** Once activated, license keys (`TZ-PRO-`, `TZ-TEAM-`, `TZ-PILOT-`) validate locally with a 30-day offline lease—zero continuous phone-home servers required during coding.
+* **`<2ms` AST Pre-Scanner + 3-Attempt Reflexion Loop:** Catches mutable defaults, loop mutations, and race conditions deterministically, then compiles and tests candidate fixes in an isolated subprocess (`compile()` + runtime check) before displaying `✅ Verified Clean`.
+* **Bring Your Own Local Ollama Model:** Tuned out of the box for `qwen2.5-coder:1.5b` (runs smoothly on 8 GB RAM laptops with no GPU), or switch `"model"` in `tracezero.json` to `qwen2.5-coder:7b` or `deepseek-coder-v2` in 2 seconds.
+* **Free Forever Lite + Lifetime Solo Option:** Start with a **7-day unlimited Pro trial**, continue on **Free Forever Lite (`3` AI Reflexion fixes/day + unlimited `<2ms` AST scans forever)**, or unlock **Solo Pro Lifetime (`$29` one-time, all `v1.x` updates)** with zero recurring monthly fees.
+
+---
+
+### 📸 Visual Proof: Live Unified Diff & Airplane Mode Verification
+
+| Live Red/Green Unified Diff & 1-Click Patch | Verified Offline in Windows Airplane Mode |
+| :---: | :---: |
+| <img src="https://githubusercontent.com" alt="TraceZero Live Unified Diff View" width="100%" /> | <img src="https://githubusercontent.com" alt="TraceZero Airplane Mode Zero Egress Proof" width="100%" /> |
 
 ---
 
 ### 🚀 Quick Start Guide (2 Minutes)
-1. **Download & Extract:** Grab **`TraceZero_v1.0_Win64.zip`** from [**Releases**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) and extract all files into a folder.
-2. > **Note on Windows SmartScreen:** While our official EV/Azure Code Signing certificate is in verification, Windows SmartScreen may show an *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **0/67 clean** on [VirusTotal](https://virustotal.com)).
-3. <a href="https://virustotal.com"><strong>🛡️ VirusTotal Scan (0/67 Clean)</strong></a>
-4. **Initialize Local AI Engine:** Double-click **`Setup_TraceZero_Engine.bat`** once to verify Ollama and register the offline `tracezero` debugging model.
-5. **Launch `TraceZero.exe`:** Double-click **`TraceZero.exe`** (first startup takes ~5–8 seconds to initialize the local WebView2 runtime and connect to Ollama on `127.0.0.1:11434`).
-6. **Test Offline:** Turn off your Wi-Fi anytime to verify 100% air-gapped local debugging.
-7. > **💡 Pro Tip for Multi-Bug or Complex Files:** TraceZero's `1.5B` air-gapped engine is engineered for surgical precision on focused scopes (`±40` lines). If a file has several unrelated bugs, tackle or prompt **one bug/function at a time**—TraceZero's 3-attempt Reflexion verifier will lock onto the exact root cause and deliver clean, verified patches every single time.
 
+1. **Download & Install:** Grab **`TraceZero_Setup_v1.1.exe`** from [**GitHub Releases (v1.1.0)**](https://github.com/joyboyy937-rgb/tracezero-desktop) and run the 1-click installer.
+2. **Automatic Local Engine Setup:** The installer initializes the local `qwen2.5-coder:1.5b` model on `127.0.0.1:11434` automatically (requires [Ollama](https://ollama.com) installed; one-time model pull during setup, `0 KB` network egress during runtime).
+3. **Debug Offline:** Launch **TraceZero** from your Desktop shortcut, open a folder or paste code into the editor, and click **Find Bugs**—TraceZero creates `.tracezero/backups/` before patching and logs `EGRESS=0_BYTES` in `.tracezero/audit.log` (see [`AUDIT_SPEC.md`](./AUDIT_SPEC.md)).
+
+> **💡 Pro Tip for Multi-Bug or Complex Files:** TraceZero's `1.5B` air-gapped engine is engineered for surgical precision on focused scopes (`±40` lines). If a file has several unrelated bugs, tackle or prompt **one bug or function at a time**—TraceZero's 3-attempt Reflexion verifier will lock onto the exact root cause and deliver clean, verified patches every single time.
 
 ---
 
@@ -40,8 +52,13 @@
 
 | Plan | Price | Seats / Devices | Best For | Checkout |
 | :--- | :--- | :--- | :--- | :--- |
-| **Free Forever Lite** | **$0 Forever** (7-day full Pro trial, then **3 Reflexion fixes/day** + unlimited AST scans) | 1 Windows PC | Daily lightweight debugging & testing | [**Download v1.1.0**](https://github.com/joyboyy937-rgb/tracezero-desktop/releases/tag/v1.1.0) |
-| **Solo Pro (Lifetime v1.x)** | **$29 one-time** *(`$14.50` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes + all `v1.x` updates) | Independent developers & consultants | [**⚡ Buy Solo Lifetime ($29)**](https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS) |
+| **Free Forever Lite** | **$0 Forever** (7-day full Pro trial, then **3 AI Reflexion fixes/day** + unlimited AST scans) | 1 Windows PC | Daily lightweight debugging & evaluation | [**⬇️ Download v1.1.0**](https://github.com/joyboyy937-rgb/tracezero-desktop) |
+| **Solo Pro (Lifetime v1.x)** | **$29 one-time** *(`$14.50` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes + all `v1.x` updates forever) | Independent developers & consultants | [**⚡ Buy Solo Lifetime ($29)**](https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS) |
 | **Agency Team Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice + `.tracezero/audit.log`) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
 | **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Security Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |
-- **Customer Support:** `joyboyy437@gmail.com`
+
+---
+
+### 📩 Support & Security Inquiries
+* **Support Email:** `joyboyy437@gmail.com`
+* **Architecture & Audit Log Spec:** [`AUDIT_SPEC.md`](./AUDIT_SPEC.md) • **Model Config:** [`tracezero.json`](./tracezero.json)

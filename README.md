@@ -16,7 +16,7 @@
   <img width="1366" height="768" alt="tracezero main page pic" src="https://github.com/user-attachments/assets/80ce8618-de02-4de3-acb8-f5e3ba155edc" />
 </div>
 
-> **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an<img width="1366" height="705" alt="aeroplane mode proof" src="https://github.com/user-attachments/assets/0ffc75ac-1e58-427a-8539-39811874f866" />
+> **Note on Windows SmartScreen:** While our official Azure/EV Code Signing certificate is in verification, Windows SmartScreen may show an
  *"Unknown Publisher"* prompt on first run. Click **More info → Run anyway** (verified **1/66 (False positive from DeepInstinct ML; 65/66 clean)** on [VirusTotal](https://www.virustotal.com/gui/file/81ff2c54d3c450e9f6be229b3f8882730b1a41332d374e2a1fe064a57ba303db?nocache=1)).
 
 ---

@@ -55,8 +55,6 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Free Forever Lite** | **$0 Forever** (7-day full Pro trial, then **3 AI Reflexion fixes/day** + unlimited AST scans) | 1 Windows PC | Daily lightweight debugging & evaluation | [**⬇️ Download v1.1.0**](https://github.com/joyboyy937-rgb/tracezero-desktop) |
 | **Solo Pro (Lifetime v1.x)** | **$29 one-time** *(`$14.50` with `PEER50` — first 30 spots)* | Up to **2 Windows PCs** (Unlimited fixes + all `v1.x` updates forever) | Independent developers & consultants | [**⚡ Buy Solo Lifetime ($29)**](https://buy.polar.sh/polar_cl_ki911IDNJsYba6voWEpE1PLZlxgEB8wVcRvun3M8vdS) |
-| **Agency Team Pack** | **$79 / month** | **10 Windows Seats** (Monthly PDF Invoice + `.tracezero/audit.log`) | Freelance agencies & NDA teams | [**🏢 Buy Agency Pack ($79/mo)**](https://buy.polar.sh/polar_cl_ofFEoCtCwRX76fqqe85XDkup048aK12r1ZfcJ46K0UY) |
-| **Founding Security Pilot** | **$399 / 3 months** | **10 Windows Seats + CTO Security Compliance Pack** | Fintech, HealthTech & enterprise pilots | [**🛡️ Start Security Pilot ($399)**](https://buy.polar.sh/polar_cl_9G2z1zWXqxSnGfOMVjcWcfXzyCSXxGOqJ4BOI18ln2H) |
 
 ---
 
